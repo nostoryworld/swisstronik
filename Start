@@ -1,0 +1,6 @@
+The first
+solana-contract-signal-bot/
+├── .gitignore
+├── README.md
+├── bot.py
+└── requirements.txt
